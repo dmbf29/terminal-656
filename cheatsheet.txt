@@ -39,3 +39,5 @@ code .
 
 cat filename
 -> prints the file in the terminal
+
+echo "text"
