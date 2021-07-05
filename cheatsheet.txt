@@ -36,3 +36,6 @@ mv filename new_filename
 
 code .
 -> open VS Code
+
+cat filename
+-> prints the file in the terminal
