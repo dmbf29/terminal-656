@@ -1,0 +1,38 @@
+pwd
+-> present working directory (where am i?)
+
+ls / ll
+-> everything inside of that folder
+
+cd folder_name
+-> moved to that folder
+
+cd ..
+-> moved backwards
+
+mkdir folder_name
+-> creates a new folder
+
+touch filename.ext
+-> creates a new file
+
+rm filename
+-> removes file
+
+rm -r folder_name
+-> removes folder
+
+rm -f filename
+-> force remove
+
+rm -rf folder_name
+-> force remove
+
+mv file folder
+-> move the file
+
+mv filename new_filename
+-> renames the file
+
+code .
+-> open VS Code
